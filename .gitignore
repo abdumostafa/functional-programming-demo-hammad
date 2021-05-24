@@ -252,13 +252,5 @@ paket-files/
 .idea/
 *.sln.iml
 
-# Transfers
-src/Etimad.Transfers.Web/Logs/*
-src/Etimad.Transfers.Web/Logs/*
-src/Etimad.Transfers.IdentityServer/Logs/*
-src/Etimad.Transfers.HttpApi.Host/Logs/*
-src/Etimad.Transfers.HttpApi.HostWithIds/Logs/*
-src/Etimad.Transfers.DbMigrator/Logs/*
-src/Etimad.Transfers.HttpApi.Host/uploads/*
 /client/dist
 /client/dist.zip
